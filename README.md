@@ -1,7 +1,7 @@
 # Adidas-Sales-Analysis
 
 ## Project Overview
-This project analyzes Adidas sales data, uncovering key trends and insights to help management make data-driven decisions that enhance sales performance and profitability
+This project analyzes Adidas sales data, uncovering key trends and insights to help management make data-driven decisions that enhance sales performance and profitability.
 
 ## Dataset
 The dataset used in this project was downloaded from Kaggle.
@@ -13,7 +13,7 @@ It contains transactional data in columns like product categories, total sales, 
 
 ## Data Preparation
 - Assessment for completeness and correct spelling:
-  In product categories, I changed Men's aparel to Men's Apparel
+  In product categories, I changed Men's aparel to Men's Apparel.
 
 ## Exploratory Data Analysis
 - How do quantity sold and profit vary across different retailers?  
